@@ -63,11 +63,11 @@ Created a one-page visual infographic using a free design tool covering key digi
 ### Task 2 — Student Digital Portfolio *(20 marks)*
 Set up professional profiles on three platforms:
 
-| Platform | Purpose | Profile |
+| Platform | Purpose |
 |----------|---------|---------|
-| **GitHub** | Code hosting, version control, project showcase | [github.com/vremtej](https://github.com/vremtej) |
-| **LinkedIn** | Professional networking, internship opportunities | Ramtej Vissamsetti |
-| **Kaggle** | Data science learning and competitions | Ramtej Vissamsetti |
+| **GitHub** | Code hosting, version control, project showcase | 
+| **LinkedIn** | Professional networking, internship opportunities | 
+| **Kaggle** | Data science learning and competitions |
 
 - **GitHub README** includes name, branch, year, and learning goals.
 - **LinkedIn** Education section updated with B.Tech Health Informatics at VIT Bhopal (Aug 2025 – Jun 2029).
