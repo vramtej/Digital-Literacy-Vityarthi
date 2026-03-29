@@ -1,4 +1,4 @@
-# 📚 Digital Literacy Portfolio — CSE0001
+#  Digital Literacy Portfolio — CSE0001
 
 **Name:** Ramtej Vissamsetti
 **Registration Number:** 25BHI10034
