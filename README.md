@@ -122,16 +122,6 @@ An 8+ point checklist covering:
 
  See: `task-5-cybercrime/`
 
----
-
-##  Useful Links
-
-| Resource | URL |
-|----------|-----|
-| GitHub Profile | https://github.com/vremtej |
-| Cyber Crime Portal | https://cybercrime.gov.in |
-| Cyber Crime Helpline | 1930 (24×7) |
-| Google Forms Quiz | *(add link here)* |
 
 ---
 
