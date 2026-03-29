@@ -51,12 +51,12 @@ digital-literacy-project/
 
 ---
 
-## ✅ Module Summaries
+##  Module Summaries
 
 ### Task 1 — Digital Literacy Awareness Infographic *(20 marks)*
 Created a one-page visual infographic using a free design tool covering key digital literacy concepts including safe internet practices, professional online presence, and email etiquette. The infographic is aimed at first-year college students to help them navigate the digital world responsibly.
 
-📁 See: `task-1-presentation/`
+ See: `task-1-presentation/`
 
 ---
 
@@ -73,7 +73,7 @@ Set up professional profiles on three platforms:
 - **LinkedIn** Education section updated with B.Tech Health Informatics at VIT Bhopal (Aug 2025 – Jun 2029).
 - **Kaggle** account created and ready to explore datasets, notebooks, and competitions.
 
-📁 See: `task-2-portfolio/`
+ See: `task-2-portfolio/`
 
 ---
 
