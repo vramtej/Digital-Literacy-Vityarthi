@@ -1,8 +1,8 @@
 #  Digital Literacy Portfolio — CSE0001
 
-**Name:** Ramtej Vissamsetti
-**Registration Number:** 25BHI10034
-**Branch:** B.Tech CSE (Health Informatics)
+**Name:** Madineedi Sai Sri Charan 
+**Registration Number:** 25MIM10112
+**Branch:** Int M Tech AI 
 **Year:** First Year
 **Institution:** VIT Bhopal University
 **Course:** CSE0001 – Digital Literacy (1 Credit | Pass/Fail)
